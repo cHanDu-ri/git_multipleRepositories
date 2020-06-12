@@ -5,6 +5,8 @@
 
 "I will be modifed"
 
+"This is the line i have changed in other branch"
+
 "I will project conflicts because of changes in multiple branches"
 
 "At somePoint you have decide the changes in me 
