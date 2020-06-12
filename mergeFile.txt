@@ -1,0 +1,13 @@
+This is File has to merged
+
+This file created in the master 
+
+*
+*
+*
+*
+Git
+React
+Javascript
+Css
+Html
