@@ -1,0 +1,11 @@
+"Initially created in Branch Master"
+
+
+"I will be used in other Branch too"
+
+"I will be modifed"
+
+"I will project conflicts because of changes in multiple branches"
+
+"At somePoint you have decide the changes in me 
+    if u want to move me to Remote Repository"
