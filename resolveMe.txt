@@ -1,9 +1,9 @@
-"Initially created in Branch Master"
+"Initially created in Branch Master..........."
 
 
 "I will be used in other Branch too"
 
-"I will be modifed"
+"I will be modifed ............."
 
 "This is the line i have changed in other branch"
 
@@ -12,4 +12,4 @@
 "At somePoint you have decide the changes in me 
     if u want to move me to Remote Repository"
     
-"Modified"
+"Modified ....."
