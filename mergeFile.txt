@@ -8,6 +8,8 @@ This file created in the master
 *
 Git
 React
-Javascript
+
 Css
 Html
+
+delted one line "Javascript" at line 11
